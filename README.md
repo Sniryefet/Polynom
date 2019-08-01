@@ -18,11 +18,12 @@ There are three main classes :
 
 The Polynom is an Object composed of Monoms in a shape a*x^b .
 
-**NOTIC :  **
+**NOTIC :**
 b MUST be a Natural Number.
 a can be a Real Number.
 
 # Monom 
+---
 ### Constructors :
 1. **Monom(double a, int b)** – creates new Monom where a is the coefficient and b is the power.
 2. **Monom(Monom other)** – copy constructor creates new Monom with same coefficient and power as the Monom other.
@@ -39,11 +40,11 @@ a can be a Real Number.
 
 
 # Polynom 
-
+---
 ### Constructors :
-1. Polynom() – Creates default Polynom with no Monoms in it.
-2. Polynom(String s) – Creates a Polynom according to a given String .
-3. Polynom(Polynom_able p) - Creates a deep copy of the given Polynom_able (assuming Polynom able is from type Polynom).
+1. **Polynom()** – Creates default Polynom with no Monoms in it.
+2. **Polynom(String s)** – Creates a Polynom according to a given String .
+3. **Polynom(Polynom_able p)** - Creates a deep copy of the given Polynom_able (assuming Polynom able is from type Polynom).
 
 ### Methods:
 

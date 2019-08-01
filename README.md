@@ -68,7 +68,7 @@ a can be a Real Number.
 ![](https://github.com/Sniryefet/Polynom/blob/master/pictures/Polynim%20plot%20example.PNG)
 
 **CREDIT**
-Plot function is implemented with the help of [Gral](https://github.com/eseifert/gra/"Gral") 
+Plot function is implemented with the help of [Gral](https://github.com/eseifert/gral) 
 * The Jars for Gral are included in this project so one just need to add them to the project path
 
 

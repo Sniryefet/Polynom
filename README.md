@@ -1,5 +1,5 @@
 # Polynom Project
-By Snir Yefet and Barel Kantzepolski.
+By Snir Yefet and Barel Kantsepolsky.
 
 ![](https://github.com/Sniryefet/Polynom/blob/master/pictures/Polynom%20headline%20picture.PNG)
 
